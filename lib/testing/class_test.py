@@ -1,4 +1,4 @@
-from lib import CURSOR
+from lib.connect import CURSOR
 from lib.song import Song
 
 class TestClass:
